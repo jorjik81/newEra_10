@@ -7,12 +7,7 @@
       "test": "jest",
       "start": "node index.js"
     },
-    "keywords": [
-      "node",
-      "svg",
-      "logo",
-      "generator"
-    ],
+    "keywords": ["node", "svg", "logo", "generator"],
     "author": "jorjik81",
     "license": "MIT",
     "dependencies": {
